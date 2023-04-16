@@ -1,0 +1,117 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "92.7",
+      "tagline": " ",
+      "color": "0xffa11431",
+      "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Biba%20%20-%20Shirley%20Setia%20And%20Prit/Biba%20-%20Shirley%20Setia%20Ft.%20Pritam%20128%20Kbps.mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9wJTIwbXVzaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "98.3",
+      "tagline": " ",
+      "color": "0xff221420",
+      "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Rock%20On!!/Socha%20Hai%20-%20Rock%20On!!%20128%20Kbps.mp3",
+      "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+      "image": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "lang": "Hindi",
+      "disliked": false,
+      "category": "rock",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "102",
+      "tagline": " ",
+      "color": "0xff04080b",
+      "desc": "Playing music regularly will physically alter your brain structure.",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Namaste%20England/Proper%20Patola%20(Namaste%20England)%20128%20Kbps.mp3",
+      "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+      "image": "https://wallpaper.dog/large/10810858.jpg",
+      "lang": "Hindi",
+      "disliked": false,
+      "category": "hip-hop",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "104",
+      "tagline": " ",
+      "color": "0xff066c53",
+      "desc": "",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Gully%20Boy/Mere%20Gully%20Mein%20-%20Gully%20Boy%20128%20Kbps.mp3",
+      "icon": "https://radiosindia.com/images/foxfm.jpg",
+      "image": "https://wallpapercave.com/dwp2x/wp11902388.jpg",
+      "lang": "Hindi",
+      "category": "Rap",
+      "disliked": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "95",
+      "tagline": "",
+      "color": "0xff0d487d",
+      "desc": "",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Bhaag%20Johnny/Kinna%20Sona.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+      "image": "https://images.unsplash.com/photo-1502614106407-f0b9eca73d6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJvbWFuY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "lang": "English",
+      "category": "Romance",
+      "disliked": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "94",
+      "tagline": " ",
+      "color": "0xff27383e",
+      "desc": "",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Swades/Yun%20Hi%20Chala%20Chal%20-%20Swades%20128%20Kbps.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+      "image": "https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmVlbCUyMGdvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "lang": "Hindi",
+      "category": "Feel Good",
+      "disliked": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "93",
+      "tagline": " ",
+      "color": "0xffa06a37",
+      "desc": "The brain responds to music the same way it responds to something that you eat.",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Bhaag%20Milkha%20Bhaag/Zinda%20-%20Bhaag%20Milkha%20Bhaag%20128%20Kbps.mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+      "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "lang": "Hindi",
+      "category": "Gym",
+      "disliked": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "107",
+      "tagline": " ",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://pagalsong.in/uploads/systemuploads/mp3/Ajanabee/Bheegi%20Bheegi%20Raaton%20Mein%20(Revival).mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+      "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+      "lang": "Hindi",
+      "category": "classic",
+      "disliked": false,
+      "order": 8
+    }
+  ]
+
+}
